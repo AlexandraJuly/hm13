@@ -22,10 +22,10 @@
     color: #274C5B;
     padding-left: 30px;
     padding-right: 30px;
-}
 
-[class~="food"] span {
-    width: 194px;
+    &span {
+        width: 194px;
+    }
 }
 
 a {
@@ -72,13 +72,13 @@ hr {
     display: inline-flex;
     align-items: center;
     margin-bottom: 35px;
-}
 
-[class~="prise"] span {
-    font-weight: 400;
-    font-size: 17px;
-    text-decoration-line: line-through;
-    color: #B8B8B8;
-    margin-right: 10px;
+    &span {
+        font-weight: 400;
+        font-size: 17px;
+        text-decoration-line: line-through;
+        color: #B8B8B8;
+        margin-right: 10px;
+    }
 }
 
