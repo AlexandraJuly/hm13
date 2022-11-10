@@ -1,0 +1,11 @@
+@import './fonts';
+@import './header';
+@import './img';
+@import './main';
+@import './normalize';
+
+.container {
+    max-width: 1542px;
+    padding: 0 15px;
+    font-family: 'roboto';
+}
